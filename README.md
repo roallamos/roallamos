@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-alvarez-lago-b19045247)
 
 
-Hello! I’m [Your Name], a developer passionate about technology and programming. I am currently studying at the prestigious 42 School, where I have been honing my software development skills through its innovative and rigorous learning program.
+Hello! I’m Rodrigo, a developer passionate about technology and programming. I am currently studying at the prestigious 42 School, where I have been honing my software development skills through its innovative and rigorous learning program.
 
 Before diving into the world of programming, I earned a degree in Chemistry, which has given me a solid foundation in critical analysis and solving complex problems. My scientific background and passion for technology allow me to approach software projects with a unique and detailed perspective.
 
